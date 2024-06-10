@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+63bWT1kReMNcbaFS5TP48vXKNifLobZ/6Bjk945cTuWEgBcWi++eaB4BCs1PxbpYL8Udh+wFGb/kDFczUggQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debsu\\source\\repos\\First_React\\First_React.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

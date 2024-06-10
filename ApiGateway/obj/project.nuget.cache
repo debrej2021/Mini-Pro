@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "45VI1MF3HHAOJNPfGMkyyFXYMza1LDAZq7rY9z3zs+72t6jroff9nb+KiFYQEzfCLiau506YcYH8kWjZAz70sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debsu\\source\\repos\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debsu\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.0\\microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\5.0.0\\microsoft.aspnetcore.middlewareanalysis.5.0.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.10\\microsoft.extensions.diagnosticadapter.3.1.10.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\ocelot\\17.0.0\\ocelot.17.0.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

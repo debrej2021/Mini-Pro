@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tFDpGfgMLo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debsu\\source\\repos\\TestVersionAPI\\TestVersionAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
+    "C:\\Users\\debsu\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
